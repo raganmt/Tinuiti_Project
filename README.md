@@ -47,7 +47,7 @@ alt="puravida bracelets"/>
     </tr>
 	<tr>
    		<td align="center">
-			<img src="Tinuiti_Project/images/Tinuiti---Candiate-Project_06.jpg" width="600" class="100p" style="display:block" border="0" 
+			<img src="Tinuiti---Candiate-Project_06.jpg" width="600" class="100p" style="display:block" border="0" 
 								
 alt="puravida bracelets"/>
 			
@@ -55,7 +55,7 @@ alt="puravida bracelets"/>
     </tr>
 	<tr>
    		<td align="center">
-			<img src="Tinuiti_Project/images/Tinuiti---Candiate-Project_07.jpg" width="600" class="100p" style="display:block" border="0" 
+			<img src="Tinuiti---Candiate-Project_07.jpg" width="600" class="100p" style="display:block" border="0" 
 								
 alt="puravida bracelets"/>
 			
@@ -63,7 +63,7 @@ alt="puravida bracelets"/>
     </tr>
 	<tr>
    		<td align="center">
-			<img src="Tinuiti_Project/images/Tinuiti---Candiate-Project_08.jpg" width="600" class="100p" style="display:block" border="0" 
+			<img src="Tinuiti---Candiate-Project_08.jpg" width="600" class="100p" style="display:block" border="0" 
 								
 alt="puravida bracelets"/>
 			
@@ -71,7 +71,7 @@ alt="puravida bracelets"/>
     </tr>
 	<tr>
    		<td align="center">
-			<img src="Tinuiti_Project/images/Tinuiti---Candiate-Project_09.jpg" width="600" class="100p" style="display:block" border="0" 
+			<img src="Tinuiti---Candiate-Project_09.jpg" width="600" class="100p" style="display:block" border="0" 
 								
 alt="puravida bracelets"/>
 			
