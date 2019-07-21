@@ -39,7 +39,7 @@
 <table border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%">
     <tr>
    		<td align="center">
-			<img src="Tinuiti_Project/images/Tinuiti---Candiate-Project_01.jpg" width="600" class="100p" style="display:block" border="0" 
+			<img src="Tinuiti---Candiate-Project_01.jpg" width="600" class="100p" style="display:block" border="0" 
 								
 alt="puravida bracelets"/>
 			
